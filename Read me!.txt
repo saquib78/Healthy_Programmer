@@ -1,0 +1,36 @@
+
+
+	************************************************************     Healthy programmer	*****************************************************************************************
+	*																						*
+	*		*************************	9am-5pm job	*************************											*
+	*																						*
+	*																						*
+	*		Request:																			*
+	*			I have to make a health management system that keeps a programmer healthy.										*
+	*																						*
+	*																						*
+	*		Assumption:																			*
+	*			A healthy programmer, he takes 3.5 litres of water. and every 30 minutes he does eye exercises. and every 45 minutes he does physical exercise.		*
+	*																						*
+	*																						*
+	*																						*
+	*		Aim:																				*
+	*		 	make a program that reminds programmers to take water or eye exercise or physical exercise using play music. water.mp3, eyes.mp3, physical.mp3		*
+	*																						*
+	*		 		respectively.Save it in a file.	****														*
+	*																						*
+	*																						*
+	*																						*
+	*																						*
+	*		Important Note:																			* 																				*
+	*			Required : pygame module.																*
+	*																						*
+	*			 	: python editor.																*
+	*																						*
+	*			 	: All audio and Viedo File Put in a same folder.												*
+	*																						*
+	*			 	: text file is autogenerate in first  time, so not required for make it.  									*
+	*																						*
+	*																						*
+	*																						*
+	*********************************************************************************************************************************************************************************
